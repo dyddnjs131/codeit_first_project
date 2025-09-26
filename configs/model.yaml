@@ -1,0 +1,3 @@
+backbone: fasterrcnn_resnet50_fpn_v2
+num_classes: 2
+pretrained: true
