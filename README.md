@@ -66,3 +66,6 @@ first-project/
 
 - `label_maps.txt`는 JSON: `{"id_to_index": {...}, "index_to_name": {...}}`
 - 키는 자동으로 int로 캐스팅됩니다.
+
+## 데이터 출처
+https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=576
