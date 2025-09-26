@@ -68,4 +68,6 @@ first-project/
 - 키는 자동으로 int로 캐스팅됩니다.
 
 ## 데이터 출처
+알약 74종 1500장 3~4객체 이미지 사용 원본 4TB로 용량문제로 일부만 사용
 https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=576
+
